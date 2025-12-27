@@ -1,0 +1,78 @@
+Assignment 6
+1. Create a 2 bit comparator using basic gates.
+
+2.Create a 4 bit comparator. Use buses for each of the input signal lines
+
+ Submit the following 1. .vhd file for generating the schematic design of circuit 2. .vhd file for generating the test bench  3.a screen shot for the schematic diagram generated 4. a screen shot for the waveform generated 
+
+
+Assignment 7
+ 1.Create 8:1 Multiplexer  with select line. Use buses for each of the input signal lines Submit the following
+
+2.Create 1:8 DeMultiplexer  with select line. Use buses for each of the input signal lines Submit the following
+
+1. .vhd file for generating the schematic design of MUX and DE-MUX circuit
+
+2. .vhd file for generating the test bench
+
+3.a screen shot for the schematic diagram generated
+
+4. a screen shot for the waveform generated
+
+
+
+Assignment 8
+Design a behavioral simulation of SR flip flop, JK flip flop and  D flip flop . Upload the following, 1. .vhd file for the schematic 2. .vhd file for test bench 3. screenshot for the schematic diagram 4. screen shot for the simulation . Consider clock period = 1 ps
+
+ Assignment 9
+A) Design a 4-bit serial in and parallel out shift register.
+
+B) Design a 4-bit parallel in and serial out shift register.
+
+Upload the .vhd file for generation of the structural schematic.
+
+Upload the .vhd test bench for generating the test bench.
+
+Upload screenshots for RTL.
+
+Upload screenshots for wave forms.
+
+
+
+
+
+Assignment 10
+Design 4 bit up down counter.
+
+1. .vhd file for generating the schematic design
+
+2. .vhd file for generating the test bench
+
+3.a screen shot for the schematic diagram generated
+
+4. a screen shot for the waveform generated
+
+
+Assignment 11
+Design 4-bit simple ALU and Upload the following,
+
+1. .vhd file for the schematic
+
+2. .vhd file for test bench
+
+3. screenshot for the schematic diagram
+
+4. screen shot for the simulation .
+
+
+
+Assignment 12
+Design memory modules for a RAM and Upload the following,
+
+1. .vhd file for the schematic
+
+2. .vhd file for test bench
+
+3. screenshot for the schematic diagram
+
+4. screen shot for the simulation .
